@@ -7,7 +7,8 @@ class Constants {
   static const LOGOAPP = "assets/images/logo.png";
 
   static const DB_URL =
-      "https://reportnaturaldisastersapp-default-rtdb.europe-west1.firebasedatabase.app";
+      // CHANGE WITH YOUR DB URL FIND IN REALTIME DATABASE (without final '/')
+      "[Paste_url_here]";
   static const DB_DATA = "Data";
   static const DB_USER = "UsersData";
   static const DB_IMAGES = "ImagesData";
